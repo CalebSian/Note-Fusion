@@ -1,7 +1,8 @@
 {
-  "name": "Note Fusion",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
+  "name": "Note-Fusion",
+  "integrations": {},
+  "type": "angular",
+  "build": {
+    "baseHref": "/Note-Fusion/"
+  }
 }
