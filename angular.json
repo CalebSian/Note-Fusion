@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "baseHref": "/Note-Fusion/"
+            "baseHref": "/Note-Fusion/",
             "outputPath": "www",
             "index": "src/index.html",
             "main": "src/main.ts",
@@ -137,7 +137,8 @@
   "cli": {
     "schematicCollections": [
       "@ionic/angular-toolkit"
-    ]
+    ],
+    "analytics": "e852edea-54d3-45ca-9209-495510a0b278"
   },
   "schematics": {
     "@ionic/angular-toolkit:component": {
