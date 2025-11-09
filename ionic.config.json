@@ -1,0 +1,7 @@
+{
+  "name": "Note Fusion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
